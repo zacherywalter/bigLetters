@@ -14,7 +14,7 @@ and then output the corrosponding Text in Big Letters.
 
 characters used to make the big letters are `["|","\","/","_","\","<"," "]`
 
-### big_letters2.json
+### big_letters.json
 
 A JSON file that stores the big letters as an array of strings
 
